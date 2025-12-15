@@ -1,0 +1,157 @@
+@import "tailwindcss";
+
+@theme {
+
+
+  --color-fog-50: #F1F3F3;
+  --color-fog-100: #E3E7E8;
+  --color-fog-200: #C7CFD1;
+  --color-fog-300: #ACB6B9;
+  --color-fog-400: #909EA2;
+  --color-fog-500: #74868B;
+  --color-fog-600: #5D6B6F;
+  --color-fog-700: #465053;
+  --color-fog-800: #2E3638;
+  --color-fog-900: #171B1C;
+  --color-fog-950: #101313;
+
+  /* Primary Colors - Deep Blue/Navy */
+  --color-primary      : #0f172a;
+  --color-primary-light: #1e293b;
+  --color-primary-dark : #020617;
+
+  --color-primary-100: '#e0f2fe',
+  --color-primary-200: '#bae6fd',
+  --color-primary-300: '#7dd3fc',
+  --color-primary-400: '#38bdf8',
+  --color-primary-500: '#0ea5e9',
+  --color-primary-600: '#0284c7',
+  --color-primary-700: '#0369a1',
+  --color-primary-800: '#075985',
+  --color-primary-900: '#0c4a6e',
+
+  /* Secondary Colors - Vibrant Blue */
+  --color-secondary      : #3b82f6;
+  --color-secondary-light: #60a5fa;
+  --color-secondary-dark : #2563eb;
+
+  /* Accent Colors - Amber/Gold */
+  --color-accent      : #f59e0b;
+  --color-accent-light: #fbbf24;
+  --color-accent-dark : #d97706;
+
+  /* Success */
+  --color-success      : #10b981;
+  --color-success-light: #34d399;
+  --color-success-dark : #059669;
+
+  /* Warning */
+  --color-warning      : #f59e0b;
+  --color-warning-light: #fbbf24;
+  --color-warning-dark : #d97706;
+
+  /* Error/Danger */
+  --color-error      : #ef4444;
+  --color-error-light: #f87171;
+  --color-error-dark : #dc2626;
+
+  /* Neutral/Gray Scale */
+  --color-gray-50 : #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-400: #9ca3af;
+  --color-gray-500: #6b7280;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+  --color-gray-950: #030712;
+
+  /* Background Colors */
+  --color-background     : #ffffff;
+  --color-background-dark: #0f172a;
+  --color-surface        : #f9fafb;
+  --color-surface-dark   : #1e293b;
+
+  /* Text Colors */
+  --color-text           : #111827;
+  --color-text-dark      : #f9fafb;
+  --color-text-muted     : #6b7280;
+  --color-text-muted-dark: #94a3b8;
+
+  /* Font Families */
+  --font-kedebideri: 'Kedebideri', sans-serif;
+  --font-cairo     : 'Cairo', sans-serif;
+  --font-sans      : ui-sans-serif, system-ui, sans-serif;
+}
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+@font-face {
+  font-family : 'Kedebideri';
+  src         : url('./assets/fonts/en/Kedebideri/Kedebideri-Bold.ttf') format('truetype');
+  font-weight : 400;
+  font-style  : normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family : 'Cairo';
+  src         : url('./assets/fonts/ar/Cairo/Cairo-ExtraBold.ttf') format('truetype');
+  font-weight : 400;
+  font-style  : normal;
+  font-display: swap;
+}
+
+* {
+  @apply transition-colors duration-300;
+}
+
+body {
+  // @apply bg-background dark:bg-background-dark text-text dark:text-text-dark;
+}
+
+/* Apply fonts based on language */
+:root {
+  font-family: var(--font-kedebideri);
+}
+
+[lang="ar"],
+.arabic {
+  font-family: var(--font-cairo);
+  direction  : rtl;
+}
+
+[lang="en"],
+.english {
+  font-family: var(--font-kedebideri);
+  direction  : ltr;
+}
+
+
+::-webkit-scrollbar {
+  @apply w-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100 dark:bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-600 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-500;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+// * {
+//   outline: 1px solid #ff0000 !important;
+// }
