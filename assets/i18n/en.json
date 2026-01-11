@@ -1,14 +1,254 @@
 {
-    "En":"En",
-    "Ar":"ع",
+  "En": "En",
+  "Ar": "ع",
 
-    "Header": "Home",
-    "About": "About",
-    "Skills": "Skills",
-    "Experience": "Experience",
-    "Education": "Education",
-    "Courses": "Courses",
-    "Certificates": "Certificates",
-    "Contact": "Contact",
-    "GetInTouch":"Get in Touch"
+  "HEADER": {
+    "GREETING": "Hi, I'm Taher Ahmed",
+    "SUBTITLE": "Frontend Developer (Angular) — building fast, scalable, and modern web applications.",
+    "VIEW_WORK": "View My Work",
+    "DOWNLOAD_CV": "Download CV"
+  },
+
+  "HOME": {
+    "MARQUEE_INNOVATION": "INNOVATION • CREATIVITY • EXCELLENCE • DESIGN • TECHNOLOGY • INNOVATION • CREATIVITY •",
+    "MARQUEE_SIMPLE_POWERFUL": "More simple • more powerful • More simple • more powerful • More simple • more powerful •"
+  },
+
+  "ABOUT": {
+    "TITLE": "About Me",
+    "OVERVIEW": "Overview",
+    "EXPERIENCE_YEARS": "5+ Years Experience",
+    "DESCRIPTION_1": "I'm a",
+    "FRONTEND_DEVELOPER": "Frontend Developer (Web/Mobile)",
+    "DESCRIPTION_1_CONT": "with over",
+    "FIVE_YEARS": "5 years",
+    "DESCRIPTION_1_END": "of hands-on experience, gained through full-time roles in tech companies and freelance projects. I specialize in building responsive web pages and mobile applications with a strong focus on usability, performance, and clean code.",
+    "DESCRIPTION_2": "I thrive in",
+    "AGILE_ENVIRONMENTS": "Agile environments",
+    "DESCRIPTION_2_CONT": "and collaborate closely with designers, product managers, and backend developers. I also have foundational backend knowledge (Node.js, APIs, databases, deployment) which helps me understand the full development cycle and deliver better end-to-end solutions.",
+    "HIGHLIGHTS": "Highlights",
+    "SKILLS_INTERESTS": "Skills & Interests",
+    "DESCRIPTION_3": "I enjoy building",
+    "CLEAN_FAST_USER_FOCUSED": "clean, fast, and user-focused",
+    "DESCRIPTION_3_CONT": "applications. I explore creative coding, animations, backend integration, and AI technologies to expand my capabilities.",
+    "ANGULAR_EXPERT": "Angular & TypeScript expert",
+    "BUILDING_ROBUST": "Building robust web applications",
+    "MOBILE_DEVELOPMENT": "Mobile development with Ionic",
+    "CROSS_PLATFORM": "Cross-platform mobile apps",
+    "CREATIVE_CODING": "Creative coding & animations",
+    "GSAP_THREEJS": "GSAP, Three.js, and more",
+    "ALWAYS_LEARNING": "Always learning new technologies",
+    "CONTINUOUS_GROWTH": "Continuous growth mindset"
+  },
+
+  "EXPERIENCE": {
+    "TITLE": "Experience",
+    "JOB_DESCRIPTION": "Job Description",
+    "FRONTEND_DEVELOPER": "Frontend Developer",
+    "DESCRIPTION_1": "As a",
+    "FRONTEND_DEV_ANGULAR": "Frontend Developer",
+    "DESCRIPTION_1_CONT": "specializing in Angular and Ionic, I build modern, high-performance web and mobile interfaces with a strong focus on usability, scalability, and clean architecture. I convert UI/UX designs into responsive and maintainable code while ensuring accessibility and optimized performance across devices and platforms.",
+    "DESCRIPTION_2": "I collaborate with",
+    "CROSS_FUNCTIONAL": "cross-functional teams",
+    "DESCRIPTION_2_CONT": "— designers, backend engineers, QA testers, and product owners — to deliver seamless features and polished user experiences. My responsibilities include enhancing UI interactions, integrating REST APIs, fixing bugs, maintaining code quality, and contributing to Agile development workflows.",
+    "KEY_RESPONSIBILITIES": "Key Responsibilities",
+    "VISIT_COMPANY": "Visit Company",
+    "EMPLOYMENT_TYPES": {
+      "INTERNSHIP": "Internship",
+      "FULL_TIME": "Full Time",
+      "ALL_TIME": "All Time"
+    },
+    "TIMELINE": {
+      "RCC": {
+        "COMPANY_NAME": "Starts With The Russian Cultural Center in cairo",
+        "POSITION": "Web Design Diploma",
+        "PERIOD": "6 months",
+        "DESCRIPTION": "Building scalable Angular applications, implementing GSAP animations, SVG-driven UI, and performance optimizations.",
+        "RESPONSIBILITIES": [
+          "Designed and developed responsive website layouts.",
+          "Fixed UI/UX design issues and improved user flow.",
+          "Integrated basic frontend code and collaborated with backend team."
+        ]
+      },
+      "AT_DESIGNS": {
+        "COMPANY_NAME": "@Designs Agency",
+        "POSITION": "Web Designer",
+        "PERIOD": "2018 (6 months)",
+        "DESCRIPTION": "Building scalable Angular applications, implementing GSAP animations, SVG-driven UI, and performance optimizations.",
+        "RESPONSIBILITIES": [
+          "Designed and developed responsive website layouts.",
+          "Fixed UI/UX design issues and improved user flow.",
+          "Integrated basic frontend code and collaborated with backend team."
+        ]
+      },
+      "TILDE_TECH": {
+        "COMPANY_NAME": "Tilde Tech",
+        "POSITION": "Web/Mobile Developer (Angular/Ionic)",
+        "PERIOD": "Aug 2021 – Oct 2022",
+        "DESCRIPTION": "Building scalable Angular applications, implementing GSAP animations, SVG-driven UI, and performance optimizations.",
+        "RESPONSIBILITIES": [
+          "Developed hybrid mobile app pages for ElZatoonah using Ionic.",
+          "Published updates to Google Play and Apple App Store.",
+          "Converted Adobe XD designs into live, responsive UI.",
+          "Worked on both web and mobile enhancements and bug fixes."
+        ]
+      },
+      "SYAARAAT": {
+        "COMPANY_NAME": "(Syaaraat) First Tech",
+        "POSITION": "Frontend Developer",
+        "PERIOD": "Oct 2022 – Nov 2023",
+        "DESCRIPTION": "Building scalable Angular applications, implementing GSAP animations, SVG-driven UI, and performance optimizations.",
+        "RESPONSIBILITIES": [
+          "Created new pages for the Syaaraat platform based on DX designs.",
+          "Enhanced the frontend performance and improved user experience.",
+          "Maintained UI consistency across browsers and devices.",
+          "Fixed frontend bugs and worked on usability enhancements."
+        ]
+      },
+      "SOFTEC": {
+        "COMPANY_NAME": "Softec Technologies",
+        "POSITION": "Associate Frontend Developer (Angular)",
+        "PERIOD": "Feb 2024 – Present",
+        "DESCRIPTION": "Building scalable Angular applications, implementing GSAP animations, SVG-driven UI, and performance optimizations.",
+        "RESPONSIBILITIES": [
+          "Developed and implemented user-friendly web interfaces using Angular and TypeScript.",
+          "Translated Figma UI designs into responsive HTML/CSS layouts.",
+          "Fixed UI bugs and enhanced existing frontend features.",
+          "Collaborated with QA and backend teams to deliver clean releases.",
+          "Utilized TFS for version control and participated in agile development sprints."
+        ]
+      },
+      "KEEP_LEARNING": {
+        "COMPANY_NAME": "Keep Learning",
+        "POSITION": "Keep Learning",
+        "PERIOD": "All Time",
+        "DESCRIPTION": "Building scalable Angular applications, implementing GSAP animations, SVG-driven UI, and performance optimizations.",
+        "RESPONSIBILITIES": [
+          "Designed and developed responsive website layouts.",
+          "Fixed UI/UX design issues and improved user flow.",
+          "Integrated basic frontend code and collaborated with backend team."
+        ]
+      }
+    }
+  },
+
+  "EDUCATION": {
+    "TITLE": "Education",
+    "BACHELORS_DEGREE": "Bachelor's Degree",
+    "MIS_DEGREE": "Management Information Systems — Advanced Academy Institute, El-Haram",
+    "DATA_ANALYSIS": "Data Analysis",
+    "SYSTEMS_DESIGN": "Systems Design",
+    "BUSINESS_TECH": "Business Tech",
+    "CONTINUOUS_LEARNING": "Continuous Learning",
+    "ONGOING_SPECIALIZATION": "Ongoing specialization in modern frontend engineering, UX patterns, and performance.",
+    "ANGULAR": "Angular",
+    "GSAP": "GSAP",
+    "ACCESSIBILITY": "Accessibility"
+  },
+
+  "SKILLS": {
+    "TITLE": "Skills",
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "TOOLS": "Tools & Others"
+  },
+
+  "COURSES": {
+    "TITLE": "Courses",
+    "ANGULAR_ADVANCED": "Angular Advanced",
+    "ANGULAR_DESC": "Architecture, performance tuning, RxJS mastery, and scalable component patterns.",
+    "JAVASCRIPT_MASTERY": "JavaScript Mastery",
+    "JS_DESC": "Deep dive into modern JS, patterns, and performance for complex web apps.",
+    "NODE_EXPRESS": "Node & Express APIs",
+    "NODE_DESC": "Building secure, testable REST APIs with Node, Express, and best practices.",
+    "MONGODB": "MongoDB for Devs",
+    "MONGODB_DESC": "Schema design, indexing, aggregation, and performance tuning for production.",
+    "GIT_BOOTCAMP": "Git & GitHub Bootcamp",
+    "GIT_DESC": "Branching strategies, CI basics, and collaboration workflows for teams.",
+    "UI_UX": "UI/UX Foundations",
+    "UI_UX_DESC": "Usability, design systems, and motion principles to craft delightful interfaces.",
+    "RXJS": "RxJS",
+    "CHANGE_DETECTION": "Change Detection",
+    "STATE_MGMT": "State Mgmt",
+    "ESNEXT": "ESNext",
+    "PATTERNS": "Patterns",
+    "PERF": "Perf",
+    "REST": "REST",
+    "SECURITY": "Security",
+    "TESTING": "Testing",
+    "AGGREGATION": "Aggregation",
+    "INDEXING": "Indexing",
+    "SCALING": "Scaling",
+    "GIT_FLOW": "Git Flow",
+    "CI_CD": "CI/CD",
+    "PRS": "PRs",
+    "DESIGN_SYSTEMS": "Design Systems",
+    "ACCESSIBILITY": "Accessibility",
+    "MOTION": "Motion"
+  },
+
+  "CERTIFICATES": {
+    "TITLE": "Certificates",
+    "ALL": "All Certificates",
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "ADOBE": "Adobe Creative",
+    "DOTNET": ".NET",
+    "JAVASCRIPT": "JavaScript",
+    "WEB": "Web Development",
+    "OTHERS": "Others"
+  },
+
+  "CONTACT": {
+    "TITLE": "Contact",
+    "LETS_CREATE": "Let's Create Together",
+    "GET_IN_TOUCH": "Get In Touch",
+    "DESCRIPTION": "Feel free to reach out for collaborations or opportunities. I'm always open to discussing new projects, creative ideas, or how we can build something great together.",
+    "AVAILABLE": "Available",
+    "FREELANCE": "Freelance",
+    "FULL_TIME": "Full-time",
+    "CONTACT_INFO": "Contact Info",
+    "DETAILS": "Details",
+    "EMAIL": "Email",
+    "LOCATION": "Location",
+    "CAIRO_EGYPT": "Cairo, Egypt",
+    "AVAILABILITY": "Availability",
+    "FREELANCE_FULLTIME": "Freelance & Full-time"
+  },
+
+  "FOOTER": {
+    "DESCRIPTION": "Frontend Developer specializing in Angular, building fast, scalable, and modern web applications.",
+    "QUICK_LINKS": "Quick Links",
+    "HOME": "Home",
+    "ABOUT": "About",
+    "EXPERIENCE": "Experience",
+    "SKILLS": "Skills",
+    "CERTIFICATES": "Certificates",
+    "CONTACT": "Contact",
+    "GET_IN_TOUCH": "Get In Touch",
+    "CONTACT_ME": "Contact Me",
+    "COPYRIGHT": "© {{year}} Taher Ahmed. All rights reserved.",
+    "BUILT_WITH": "Built with",
+    "USING": "using Angular & Tailwind CSS"
+  },
+
+  "Header": "Home",
+  "About": "About",
+  "Skills": "Skills",
+  "Experience": "Experience",
+  "Education": "Education",
+  "Courses": "Courses",
+  "Certificates": "Certificates",
+  "Contact": "Contact",
+  "GetInTouch": "Get in Touch",
+
+  "LOADER": {
+    "LOADING_DOCUMENT": "Loading document...",
+    "LOADING_CONTENT": "Loading content...",
+    "LOADING_RESOURCES": "Loading resources...",
+    "LOADING_IMAGES": "Loading images... ({{loaded}}/{{total}})",
+    "ALL_IMAGES_LOADED": "All images loaded!",
+    "ALMOST_READY": "Almost ready!",
+    "CONTINUE": "continue..."
+  }
 }
