@@ -1,7 +1,7 @@
 {
   "En": "En",
   "Ar": "ع",
-
+  "SLOW_SCROLLING": "Slow Scrolling",
   "HEADER": {
     "GREETING": "Hi, I'm Taher Ahmed",
     "SUBTITLE": "Frontend Developer (Angular) — building fast, scalable, and modern web applications.",
