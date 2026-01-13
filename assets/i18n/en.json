@@ -153,6 +153,15 @@
     "TOOLS": "Tools & Others"
   },
 
+  "PORTFOLIO": {
+    "TITLE": "Work Portfolio",
+    "SUBTITLE": "A selection of projects that combine performance, clean architecture, and motion-first UI.",
+    "HINT": "Use the filters to browse projects. Click Open to view a live demo.",
+    "FILTER_ALL": "All",
+    "OPEN": "Open",
+    "CODE": "Code"
+  },
+
   "COURSES": {
     "TITLE": "Courses",
     "ANGULAR_ADVANCED": "Angular Advanced",
@@ -223,6 +232,7 @@
     "ABOUT": "About",
     "EXPERIENCE": "Experience",
     "SKILLS": "Skills",
+    "PORTFOLIO": "Portfolio",
     "CERTIFICATES": "Certificates",
     "CONTACT": "Contact",
     "GET_IN_TOUCH": "Get In Touch",
@@ -235,6 +245,7 @@
   "Header": "Home",
   "About": "About",
   "Skills": "Skills",
+  "Portfolio": "Portfolio",
   "Experience": "Experience",
   "Education": "Education",
   "Courses": "Courses",
