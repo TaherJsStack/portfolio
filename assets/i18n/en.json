@@ -238,6 +238,8 @@
     "GET_IN_TOUCH": "Get In Touch",
     "CONTACT_ME": "Contact Me",
     "COPYRIGHT": "© {{year}} Taher Ahmed. All rights reserved.",
+    "VERSION": "Version:",
+    "LAST_UPDATED": "Last updated:",
     "BUILT_WITH": "Built with",
     "USING": "using Angular & Tailwind CSS"
   },

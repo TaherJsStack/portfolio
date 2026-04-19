@@ -239,6 +239,8 @@
     "GET_IN_TOUCH": "تواصل معنا",
     "CONTACT_ME": "اتصل بي",
     "COPYRIGHT": "© {{year}} طاهر أحمد. جميع الحقوق محفوظة.",
+    "VERSION": "الإصدار:",
+    "LAST_UPDATED": "آخر تحديث:",
     "BUILT_WITH": "مبني بـ",
     "USING": "Angular & Tailwind CSS"
   },
