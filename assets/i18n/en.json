@@ -156,7 +156,7 @@
   "PORTFOLIO": {
     "TITLE": "Work Portfolio",
     "SUBTITLE": "A selection of projects that combine performance, clean architecture, and motion-first UI.",
-    "HINT": "Use the filters to browse projects. Click Open to view a live demo.",
+    "HINT": "Use the filters to browse projects. Open the live app or inspect the GitHub code.",
     "FILTER_ALL": "All",
     "OPEN": "Open",
     "CODE": "Code"
