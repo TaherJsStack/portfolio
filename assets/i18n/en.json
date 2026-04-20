@@ -136,9 +136,9 @@
     "TITLE": "Education",
     "BACHELORS_DEGREE": "Bachelor's Degree",
     "MIS_DEGREE": "Management Information Systems — Advanced Academy Institute, El-Haram",
-    "DATA_ANALYSIS": "Data Analysis",
-    "SYSTEMS_DESIGN": "Systems Design",
-    "BUSINESS_TECH": "Business Tech",
+    "DATA_ANALYSIS": "Software Development",
+    "SYSTEMS_DESIGN": "System Design",
+    "BUSINESS_TECH": "Database Design",
     "CONTINUOUS_LEARNING": "Continuous Learning",
     "ONGOING_SPECIALIZATION": "Ongoing specialization in modern frontend engineering, UX patterns, and performance.",
     "ANGULAR": "Angular",
@@ -158,8 +158,92 @@
     "SUBTITLE": "A selection of projects that combine performance, clean architecture, and motion-first UI.",
     "HINT": "Use the filters to browse projects. Open the live app or inspect the GitHub code.",
     "FILTER_ALL": "All",
+    "APP": "App",
+    "PROJECT_LABEL": "Project",
     "OPEN": "Open",
-    "CODE": "Code"
+    "CODE": "Code",
+    "CATEGORIES": {
+      "FRONTEND": "Frontend",
+      "BACKEND": "Backend",
+      "MOBILE": "Mobile",
+      "DESKTOP": "Desktop"
+    },
+    "CREATION_REASONS": {
+      "FREELANCER": "Freelancer",
+      "SPENT_TIME_FOR_TEST": "Spent Time For Test"
+    },
+    "PROJECTS": {
+      "ORGANIC_FARM_LANDING_PAGE": {
+        "TITLE": "Organic Farm Landing Page",
+        "DESCRIPTION": "Responsive HTML/CSS organic food landing page with a dark hero, brand carousel, produce-focused promotions, testimonial sections, news cards, and a conversion-oriented footer for farm and grocery style products.",
+        "IMAGE_ALT": "Organic farm landing page preview"
+      },
+      "CONSULT_PLUS_LANDING_PAGE": {
+        "TITLE": "Consult Plus Landing Page",
+        "DESCRIPTION": "Responsive HTML/CSS consulting landing page translated from a PSD-style concept with a hero banner, service highlights, projects showcase, testimonials, blog preview, and contact-focused footer sections.",
+        "IMAGE_ALT": "Consult Plus business landing page preview"
+      },
+      "TAHER_CV": {
+        "TITLE": "Taher CV App",
+        "DESCRIPTION": "Angular portfolio experience with GSAP-driven motion, multilingual sections, custom visual effects, and responsive presentation built to showcase projects and technical depth.",
+        "IMAGE_ALT": "Taher CV application preview"
+      },
+      "ECOMMERCE_DASHBOARD": {
+        "TITLE": "NG E-Commerce Dashboard",
+        "DESCRIPTION": "Admin-focused Angular dashboard for NG E-Commerce with analytics cards, sales tracking, inventory visibility, and management workflows built with a responsive dark UI.",
+        "IMAGE_ALT": "NG E-Commerce dashboard preview"
+      },
+      "ECOMMERCE_LANDING_PAGE": {
+        "TITLE": "NG E-Commerce Landing Page",
+        "DESCRIPTION": "Conversion-focused Angular landing page for NG E-Commerce with product highlights, brand messaging, clear storefront entry points, and responsive promotional sections.",
+        "IMAGE_ALT": "NG E-Commerce landing page preview"
+      },
+      "ECOMMERCE_STORE_HOME": {
+        "TITLE": "NG E-Commerce Store Home",
+        "DESCRIPTION": "Storefront home experience for NG E-Commerce featuring hero campaigns, category shortcuts, curated product shelves, trust content, and testimonial-driven merchandising.",
+        "IMAGE_ALT": "NG E-Commerce store home preview"
+      },
+      "GLOW_IONIC_APP": {
+        "TITLE": "Glow Ionic App",
+        "DESCRIPTION": "Cross-platform Ionic salon-booking app translated from Figma into Arabic-first mobile flows with offers, category discovery, and appointment-focused customer journeys.",
+        "IMAGE_ALT": "Glow Ionic App mobile salon booking screen preview"
+      },
+      "GLOW_UP_CONTROL": {
+        "TITLE": "Glow Up Control",
+        "DESCRIPTION": "Arabic-first control-side Ionic app for salon operations with services, offers, bookings, wallet flows, payment methods, and business profile management screens.",
+        "IMAGE_ALT": "Glow Up Control dashboard preview"
+      },
+      "MOBILE_IONIC_RESTAURANT": {
+        "TITLE": "Mobile Ionic Restaurant",
+        "DESCRIPTION": "Mobile-first Ionic restaurant app with visual menu browsing, food-focused ordering screens, and touch-friendly UI flows demonstrated through the linked walkthrough.",
+        "IMAGE_ALT": "Mobile Ionic Restaurant app screen preview"
+      },
+      "ION_CHAT": {
+        "TITLE": "Ion Chat",
+        "DESCRIPTION": "Real-time Ionic chat app backed by Node.js, MongoDB, and Socket.IO with authentication, friend discovery, messaging, status views, calls screens, and profile settings.",
+        "IMAGE_ALT": "Ion Chat repository preview"
+      },
+      "SCHOOL_APP": {
+        "TITLE": "School App",
+        "DESCRIPTION": "Angular school platform combining a public-facing education website with admin-side modules for users, library, exams, and broader school management workflows.",
+        "IMAGE_ALT": "School App repository preview"
+      },
+      "NODEJS_SWAGGER": {
+        "TITLE": "NodeJS Swagger",
+        "DESCRIPTION": "Node.js and Express API with Swagger-documented endpoints, JWT auth, bilingual response handling, and paginated CRUD workflows for a sample books domain.",
+        "IMAGE_ALT": "NodeJS Swagger repository preview"
+      },
+      "CSHARP_DESKTOP_MYSQL": {
+        "TITLE": "C# Desktop App MySQL",
+        "DESCRIPTION": "Windows desktop application built with C# and MySQL to manage mobile-shop inventory, customers, sales records, receipts, and product imagery in one workflow.",
+        "IMAGE_ALT": "C# Desktop App MySQL Capture5 screenshot"
+      },
+      "MINIMAL_APIS_MOVIES_APP": {
+        "TITLE": "Building Minimal APIs Movies App",
+        "DESCRIPTION": "ASP.NET Core Minimal APIs project using .NET 8, EF Core, SQL Server, JWT, Swagger, GraphQL, and Redis for scalable movie data workflows.",
+        "IMAGE_ALT": "Building Minimal APIs Movies App repository preview"
+      }
+    }
   },
 
   "COURSES": {
