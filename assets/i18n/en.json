@@ -4,53 +4,65 @@
   "SLOW_SCROLLING": "Slow Scrolling",
   "HEADER": {
     "GREETING": "Hi, I'm Taher Ahmed",
-    "SUBTITLE": "Frontend Developer (Angular) — building fast, scalable, and modern web applications.",
+    "SUBTITLE": "Frontend & Full Stack Developer (Angular) — building fast, scalable, and modern web applications.",
     "VIEW_WORK": "View My Work",
     "DOWNLOAD_CV": "Download CV"
   },
-
   "HOME": {
     "MARQUEE_INNOVATION": "INNOVATION • CREATIVITY • EXCELLENCE • DESIGN • TECHNOLOGY • INNOVATION • CREATIVITY •",
     "MARQUEE_SIMPLE_POWERFUL": "More simple • more powerful • More simple • more powerful • More simple • more powerful •"
   },
-
   "ABOUT": {
     "TITLE": "About Me",
     "OVERVIEW": "Overview",
     "EXPERIENCE_YEARS": "5+ Years Experience",
     "DESCRIPTION_1": "I'm a",
-    "FRONTEND_DEVELOPER": "Frontend Developer (Web/Mobile)",
+    "FRONTEND_DEVELOPER": "Frontend (Web/Mobile) & Full Stack Developer",
     "DESCRIPTION_1_CONT": "with over",
     "FIVE_YEARS": "5 years",
-    "DESCRIPTION_1_END": "of hands-on experience, gained through full-time roles in tech companies and freelance projects. I specialize in building responsive web pages and mobile applications with a strong focus on usability, performance, and clean code.",
+    "DESCRIPTION_1_END": "of hands-on experience, gained through full-time roles in tech companies and freelance projects. I specialize in building responsive web pages, mobile applications, and end-to-end product flows with a strong focus on usability, performance, and clean code.",
     "DESCRIPTION_2": "I thrive in",
     "AGILE_ENVIRONMENTS": "Agile environments",
-    "DESCRIPTION_2_CONT": "and collaborate closely with designers, product managers, and backend developers. I also have foundational backend knowledge (Node.js, APIs, databases, deployment) which helps me understand the full development cycle and deliver better end-to-end solutions.",
+    "DESCRIPTION_2_CONT": "and collaborate closely with designers, product managers, and backend developers. I also work across backend integration, APIs, databases, and deployment workflows, which helps me understand the full development cycle and deliver stronger end-to-end solutions.",
     "HIGHLIGHTS": "Highlights",
     "SKILLS_INTERESTS": "Skills & Interests",
     "DESCRIPTION_3": "I enjoy building",
     "CLEAN_FAST_USER_FOCUSED": "clean, fast, and user-focused",
-    "DESCRIPTION_3_CONT": "applications. I explore creative coding, animations, backend integration, and AI technologies to expand my capabilities.",
-    "ANGULAR_EXPERT": "Angular & TypeScript expert",
-    "BUILDING_ROBUST": "Building robust web applications",
+    "DESCRIPTION_3_CONT": "applications. I explore creative coding, animations, backend integration, and AI technologies to keep expanding both frontend and full stack capabilities.",
+    "ANGULAR_EXPERT": "Angular, TypeScript & Full Stack delivery",
+    "BUILDING_ROBUST": "Building robust web applications and connected product flows",
     "MOBILE_DEVELOPMENT": "Mobile development with Ionic",
     "CROSS_PLATFORM": "Cross-platform mobile apps",
-    "CREATIVE_CODING": "Creative coding & animations",
-    "GSAP_THREEJS": "GSAP, Three.js, and more",
+    "CREATIVE_CODING": "Backend integration & creative coding",
+    "GSAP_THREEJS": "Node.js, APIs, GSAP, Three.js, and more",
     "ALWAYS_LEARNING": "Always learning new technologies",
     "CONTINUOUS_GROWTH": "Continuous growth mindset"
   },
-
   "EXPERIENCE": {
     "TITLE": "Experience",
     "JOB_DESCRIPTION": "Job Description",
-    "FRONTEND_DEVELOPER": "Frontend Developer",
-    "DESCRIPTION_1": "As a",
-    "FRONTEND_DEV_ANGULAR": "Frontend Developer",
-    "DESCRIPTION_1_CONT": "specializing in Angular and Ionic, I build modern, high-performance web and mobile interfaces with a strong focus on usability, scalability, and clean architecture. I convert UI/UX designs into responsive and maintainable code while ensuring accessibility and optimized performance across devices and platforms.",
-    "DESCRIPTION_2": "I collaborate with",
-    "CROSS_FUNCTIONAL": "cross-functional teams",
-    "DESCRIPTION_2_CONT": "— designers, backend engineers, QA testers, and product owners — to deliver seamless features and polished user experiences. My responsibilities include enhancing UI interactions, integrating REST APIs, fixing bugs, maintaining code quality, and contributing to Agile development workflows.",
+    "FRONTEND_DEVELOPER": "Frontend & Full Stack Developer",
+    "DESCRIPTION_1": "I build",
+    "FRONTEND_DEV_ANGULAR": "Angular, Ionic, and full stack products",
+    "DESCRIPTION_1_CONT": "for web and mobile, turning design systems and product requirements into responsive, accessible, and maintainable interfaces. My day-to-day work centers on scalable component architecture, performance tuning, clean state handling, backend integration, and shipping polished user flows that hold up in production.",
+    "DESCRIPTION_2": "I work across",
+    "CROSS_FUNCTIONAL": "design, product, and backend teams",
+    "DESCRIPTION_2_CONT": "to plan features, integrate APIs, resolve edge cases, and raise delivery quality. Alongside frontend delivery, I also support full stack development tasks such as shaping service contracts, working with Node.js-based backend flows, and connecting end-to-end functionality with cleaner technical handoff.",
+    "IMPACT_TITLE": "Core Focus",
+    "IMPACT_ITEMS": {
+      "UI_ENGINEERING": {
+        "TITLE": "UI Engineering",
+        "DESCRIPTION": "Building reusable components, responsive layouts, and motion-rich interactions that stay maintainable as products grow."
+      },
+      "API_INTEGRATION": {
+        "TITLE": "Full Stack Development",
+        "DESCRIPTION": "Connecting frontend flows to REST services, shaping backend-aware features, and keeping end-to-end product behavior reliable."
+      },
+      "QUALITY_DELIVERY": {
+        "TITLE": "Quality Delivery",
+        "DESCRIPTION": "Fixing issues early, refining UX details, and supporting Agile delivery with cleaner code and predictable releases."
+      }
+    },
     "KEY_RESPONSIBILITIES": "Key Responsibilities",
     "VISIT_COMPANY": "Visit Company",
     "EMPLOYMENT_TYPES": {
@@ -131,7 +143,6 @@
       }
     }
   },
-
   "EDUCATION": {
     "TITLE": "Education",
     "BACHELORS_DEGREE": "Bachelor's Degree",
@@ -145,14 +156,12 @@
     "GSAP": "GSAP",
     "ACCESSIBILITY": "Accessibility"
   },
-
   "SKILLS": {
     "TITLE": "Skills",
     "FRONTEND": "Frontend",
     "BACKEND": "Backend",
     "TOOLS": "Tools & Others"
   },
-
   "PORTFOLIO": {
     "TITLE": "Work Portfolio",
     "SUBTITLE": "A selection of projects that combine performance, clean architecture, and motion-first UI.",
@@ -245,7 +254,6 @@
       }
     }
   },
-
   "COURSES": {
     "TITLE": "Courses",
     "ANGULAR_ADVANCED": "Angular Advanced",
@@ -279,9 +287,10 @@
     "ACCESSIBILITY": "Accessibility",
     "MOTION": "Motion"
   },
-
   "CERTIFICATES": {
     "TITLE": "Certificates",
+    "OVERVIEW_LABEL": "Training Attendance Certificates",
+    "OVERVIEW_DESCRIPTION": "A collection of professional development certificates showcasing continuous learning and skill development.",
     "ALL": "All Certificates",
     "FRONTEND": "Frontend",
     "BACKEND": "Backend",
@@ -291,7 +300,6 @@
     "WEB": "Web Development",
     "OTHERS": "Others"
   },
-
   "CONTACT": {
     "TITLE": "Contact",
     "LETS_CREATE": "Let's Create Together",
@@ -308,9 +316,8 @@
     "AVAILABILITY": "Availability",
     "FREELANCE_FULLTIME": "Freelance & Full-time"
   },
-
   "FOOTER": {
-    "DESCRIPTION": "Frontend Developer specializing in Angular, building fast, scalable, and modern web applications.",
+    "DESCRIPTION": "Frontend & Full Stack Developer specializing in Angular, building fast, scalable, and modern web applications.",
     "QUICK_LINKS": "Quick Links",
     "HOME": "Home",
     "ABOUT": "About",
@@ -327,7 +334,6 @@
     "BUILT_WITH": "Built with",
     "USING": "using Angular & Tailwind CSS"
   },
-
   "Header": "Home",
   "About": "About",
   "Skills": "Skills",
@@ -338,7 +344,6 @@
   "Certificates": "Certificates",
   "Contact": "Contact",
   "GetInTouch": "Get in Touch",
-
   "LOADER": {
     "LOADING_DOCUMENT": "Loading document...",
     "LOADING_CONTENT": "Loading content...",
